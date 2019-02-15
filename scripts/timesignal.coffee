@@ -8,5 +8,5 @@ module.exports = (robot) ->
     timeZone: "Asia/Tokyo",
     onTick: ->
       now new time.Date()
-      robot.send { room: "#times_shiraishi", "@shiraishi" + now.getHours()+"時"+now.getMinutes()+"分"になりました}
+      robot.send { room: "#times_shiraishi", "@shiraishi" + now.getHours() + "時" + now.getMinutes() + "分になりました" }
   )
