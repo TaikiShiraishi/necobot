@@ -5,6 +5,7 @@
   "author": "Taiki Shiraishi <tiki.t.s0118@gmail.com>",
   "description": "necomesi",
   "dependencies": {
+    "cron": "^1.6.0",
     "hubot": "^3.2.0",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-images": "^0.2.7",
@@ -17,7 +18,8 @@
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.6.0"
+    "hubot-slack": "^4.6.0",
+    "time": "^0.12.0"
   },
   "engines": {
     "node": "11.6.0",
