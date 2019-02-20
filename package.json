@@ -2,7 +2,6 @@
   "name": "necobot",
   "version": "0.0.0",
   "private": true,
-  "author": "Taiki Shiraishi <tiki.t.s0118@gmail.com>",
   "description": "necomesi",
   "dependencies": {
     "cron": "^1.6.0",
